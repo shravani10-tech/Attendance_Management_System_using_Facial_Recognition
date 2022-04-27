@@ -1,2 +1,3 @@
 # Attendance_Management_System_using_Facial_Recognition
-![image](https://user-images.githubusercontent.com/84696409/165601958-31df65d2-9021-4d98-a1e9-a873c3efbefa.png)
+![Screenshot (818)](https://user-images.githubusercontent.com/84696409/165603518-c977d600-7bf1-4fb3-bbd0-c63315df2ebd.png)
+
